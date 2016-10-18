@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 844e35d4987ecc44b8238abf3f54e8e3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spr_dollar
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1038
+        width: 426
+        height: 211
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_drone_attack
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 3520
+        width: 485
+        height: 512
+      alignment: 9
+      pivot: {x: .49000001, y: 0}
+    - name: spr_drone_neutral
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 3562
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: .49000001, y: 0}
+    - name: spr_drone_run_01
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3562
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: .49000001, y: 0}
+    - name: spr_drone_run_02
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 3562
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: .49000001, y: 0}
+    - name: 'spr_drone_run_03                                                                                                       '
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2986
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: .49000001, y: 0}
+    - name: 'spr_drone_run_04                                                                                            '
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2986
+        width: 360
+        height: 470
+      alignment: 9
+      pivot: {x: .49000001, y: 0}
+    - name: spr_boss_attack
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2944
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: .507000029, y: 0}
+    - name: spr_boss_neutral
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2432
+        width: 432
+        height: 512
+      alignment: 9
+      pivot: {x: .507000029, y: 0}
+    - name: spr_boss_run01
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2432
+        width: 492
+        height: 512
+      alignment: 9
+      pivot: {x: .507000029, y: 0}
+    - name: spr_boss_run02
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2432
+        width: 432
+        height: 512
+      alignment: 9
+      pivot: {x: .507000029, y: 0}
+    - name: spr_boss_run03
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1856
+        width: 460
+        height: 512
+      alignment: 9
+      pivot: {x: .507000029, y: 0}
+    - name: spr_boss_run04
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1856
+        width: 408
+        height: 512
+      alignment: 9
+      pivot: {x: .507000029, y: 0}
+    - name: spr_toughguy_attack
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1856
+        width: 410
+        height: 512
+      alignment: 9
+      pivot: {x: .540000021, y: 0}
+    - name: spr_toughguy_neutral
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1280
+        width: 410
+        height: 512
+      alignment: 9
+      pivot: {x: .540000021, y: 0}
+    - name: spr_toughguy_run01
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1280
+        width: 430
+        height: 512
+      alignment: 9
+      pivot: {x: .540000021, y: 0}
+    - name: spr_toughguy_run02
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 1280
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: .540000021, y: 0}
+    - name: spr_boss_run03
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 576
+        width: 390
+        height: 512
+      alignment: 9
+      pivot: {x: .540000021, y: 0}
+    - name: spr_boss_run04
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 63
+        width: 440
+        height: 512
+      alignment: 9
+      pivot: {x: .540000021, y: 0}
+    - name: spr_punch_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 1098
+        height: 313
+      alignment: 9
+      pivot: {x: .372999996, y: 0}
+    - name: spr_punch_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 1098
+        height: 337
+      alignment: 9
+      pivot: {x: .372999996, y: 0}
+    - name: spr_punch_03
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 248
+        width: 681
+        height: 436
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_punch_04
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 123
+        width: 851
+        height: 564
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_gun_01
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 593
+        height: 434
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_gun_02
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 961
+        width: 593
+        height: 508
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_gun_03
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 258
+        width: 593
+        height: 681
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_Burger
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 53
+        width: 418
+        height: 303
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_White
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3424
+        width: 109
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: spr_Black
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3251
+        width: 111
+        height: 81
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_upgrade_weapon
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 67
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spr_mission_failed
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 85
+        width: 227
+        height: 221
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: spr_mission_complete
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 86
+        width: 232
+        height: 222
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: spr_ammocount
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 1114
+        width: 213
+        height: 116
+      alignment: 3
+      pivot: {x: 1, y: 1}
+    - name: spr_health
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 964
+        width: 257
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 'spr_options                                         '
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1139
+        width: 257
+        height: 78
+      alignment: 2
+      pivot: {x: .5, y: 1}
+    - name: spr_menu
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 407
+        width: 559
+        height: 549
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spr_ammo
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 67
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

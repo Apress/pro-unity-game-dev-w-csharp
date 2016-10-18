@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\..\my_games\3dmotive_unity_puzzle\prototypes\box_push\Assets\BoxPush.cs">
+    <Files>
+      <File FileName="..\..\..\..\..\..\my_video_content\3dmotive\unity_puzzle\Unity_Tests\prototype\Assets\Scripts\PlayerController.cs" Line="46" Column="54" />
+      <File FileName="..\..\..\..\..\..\my_games\3dmotive_unity_puzzle\prototypes\box_push\Assets\BoxPush.cs" Line="11" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

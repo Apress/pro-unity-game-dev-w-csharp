@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameObjects\Enemy_Boss.cs">
+    <Files>
+      <File FileName="..\..\..\..\books\c_sharp_unity\manuscript\chapter_07\source_code\Start\Assets\Scripts\Enemy.cs" Line="3" Column="19" />
+      <File FileName="..\..\..\..\books\c_sharp_unity\manuscript\chapter_07\source_code\Start\Assets\Scripts\Enemy_Drone.cs" Line="17" Column="32" />
+      <File FileName="Assets\Scripts\GameObjects\Enemy_ToughGuy.cs" Line="23" Column="33" />
+      <File FileName="Assets\Scripts\GameObjects\Enemy_Boss.cs" Line="27" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

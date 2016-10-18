@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Listener.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Poster.cs" Line="14" Column="57" />
+      <File FileName="Assets\Scripts\Listener.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\NotificationsManager.cs" Line="52" Column="91" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
